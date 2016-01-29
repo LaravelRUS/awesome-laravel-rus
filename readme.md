@@ -46,8 +46,8 @@ Awesome Laravel (Rus)
 + [Laravel.ru](http://laravel.ru)
 
 
-## Книги
-+ ...
+## Книги (электронные)
++ [Dayle Rees - Laravel: Code Bright (RU)](https://leanpub.com/codebright-ru) (платно)
 
 
 ## Подборки статей, блоги
