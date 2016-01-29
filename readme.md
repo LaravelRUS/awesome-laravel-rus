@@ -55,18 +55,18 @@ Awesome Laravel (Rus)
 
 
 ## Статьи
-+ [Тестирование cookies в Laravel и phpunit](https://gist.github.com/Asvae/7a80606df00df4423ef7) ([@Asvae](https://github.com/Asvae)) <!--2016.01.27-->
-+ [Почему я использую propel, а не eloquent на примере](https://gist.github.com/Big-Shark/bafe87c66c716a04aabc) ([@Big-Shark](https://github.com/Big-Shark)) <!--2015.10.26-->
-+ [Вариант обработки исключений в Laravel 5.1](https://gist.github.com/jhaoda/641fb4294216bc719376) ([@jhaoda](https://github.com/jhaoda)) <!--2015.08.21-->
-+ [IoC. О реализации инверсии управления в Laravel](https://gist.github.com/greabock/02c13c428304c5ce9ec4) ([@greabock](https://github.com/greabock)) <!--2015.05.30-->
-+ [События и команды. Как оставаться упоротым и счастливым](https://gist.github.com/greabock/f06bc85cb2659b7d474b) ([@greabock](https://github.com/greabock)) <!--2015.03.06-->
-+ [Как упороться по DDD, модульной структуре и областям ответственности в Laravel. А потом стать счастливым](https://gist.github.com/greabock/48787baab768b519f21c) ([@greabock](https://github.com/greabock)) <!--2015.02.17-->
-+ [Вольный перевод офф доки по Former в двух частях. Часть вторая](https://gist.github.com/greabock/124a7896ca124522768b) ([@greabock](https://github.com/greabock)) <!--2015.02.01-->
-+ [Вольный перевод офф доки по Former в двух частях. Часть первая](https://gist.github.com/greabock/5e1be5e8b97cededb7fe) ([@greabock](https://github.com/greabock)) <!--2015.02.01-->
-+ [Как подключить Proper 2 в Laravel 5](https://gist.github.com/Big-Shark/6281b36af7765c0cb89f) ([@Big-Shark](https://github.com/Big-Shark)) <!--2015.01.17-->
-+ [Волшебный Eloquent. Часть вторая."Ландшафтный Дизайн" или "Будни Садовода"](https://gist.github.com/greabock/e63da9e3d1b26e6cd7a3) ([@greabock](https://github.com/greabock)) <!--2014.12.03-->
-+ [Волшебный Eloquent. Часть первая. Построение простых отношений в моделях данных](https://gist.github.com/greabock/3d1611c1125f5340f491) ([@greabock](https://github.com/greabock)) <!--2014.11.14-->
-+ [Переводы уроков Laravel. Создание пакета для Laravel 4](https://gist.github.com/greabock/b2e21012a51f1565848b) ([@greabock](https://github.com/greabock)) <!--2014.08.22-->
++ [Тестирование cookies в Laravel и phpunit](https://gist.github.com/Asvae/7a80606df00df4423ef7) ([@Asvae](https://github.com/Asvae)) <!-- 2016.01.27 -->
++ [Почему я использую propel, а не eloquent на примере](https://gist.github.com/Big-Shark/bafe87c66c716a04aabc) ([@Big-Shark](https://github.com/Big-Shark)) <!-- 2015.10.26 -->
++ [Вариант обработки исключений в Laravel 5.1](https://gist.github.com/jhaoda/641fb4294216bc719376) ([@jhaoda](https://github.com/jhaoda)) <!-- 2015.08.21 -->
++ [IoC. О реализации инверсии управления в Laravel](https://gist.github.com/greabock/02c13c428304c5ce9ec4) ([@greabock](https://github.com/greabock)) <!-- 2015.05.30 -->
++ [События и команды. Как оставаться упоротым и счастливым](https://gist.github.com/greabock/f06bc85cb2659b7d474b) ([@greabock](https://github.com/greabock)) <!-- 2015.03.06 -->
++ [Как упороться по DDD, модульной структуре и областям ответственности в Laravel. А потом стать счастливым](https://gist.github.com/greabock/48787baab768b519f21c) ([@greabock](https://github.com/greabock)) <!-- 2015.02.17 -->
++ [Вольный перевод офф доки по Former в двух частях. Часть вторая](https://gist.github.com/greabock/124a7896ca124522768b) ([@greabock](https://github.com/greabock)) <!-- 2015.02.01 -->
++ [Вольный перевод офф доки по Former в двух частях. Часть первая](https://gist.github.com/greabock/5e1be5e8b97cededb7fe) ([@greabock](https://github.com/greabock)) <!-- 2015.02.01 -->
++ [Как подключить Proper 2 в Laravel 5](https://gist.github.com/Big-Shark/6281b36af7765c0cb89f) ([@Big-Shark](https://github.com/Big-Shark)) <!-- 2015.01.17 -->
++ [Волшебный Eloquent. Часть вторая."Ландшафтный Дизайн" или "Будни Садовода"](https://gist.github.com/greabock/e63da9e3d1b26e6cd7a3) ([@greabock](https://github.com/greabock)) <!-- 2014.12.03 -->
++ [Волшебный Eloquent. Часть первая. Построение простых отношений в моделях данных](https://gist.github.com/greabock/3d1611c1125f5340f491) ([@greabock](https://github.com/greabock)) <!-- 2014.11.14 -->
++ [Переводы уроков Laravel. Создание пакета для Laravel 4](https://gist.github.com/greabock/b2e21012a51f1565848b) ([@greabock](https://github.com/greabock)) <!-- 2014.08.22 -->
 
 
 ## Прочее
