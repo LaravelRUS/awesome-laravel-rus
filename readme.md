@@ -55,6 +55,7 @@ Awesome Laravel (Rus)
 
 ## Статьи
 + 2016.01.27 - [Тестирование cookies в Laravel и phpunit](https://gist.github.com/Asvae/7a80606df00df4423ef7) ([@Asvae](https://github.com/Asvae))
++ 2015.10.26 - [Почему я использую propel, а не eloquent на примере](https://gist.github.com/Big-Shark/bafe87c66c716a04aabc) ([@Big-Shark](https://github.com/Big-Shark))
 + 2015.08.21 - [Вариант обработки исключений в Laravel 5.1](https://gist.github.com/jhaoda/641fb4294216bc719376) ([@jhaoda](https://github.com/jhaoda))
 + 2015.05.30 - [IoC. О реализации инверсии управления в Laravel](https://gist.github.com/greabock/02c13c428304c5ce9ec4) ([@greabock](https://github.com/greabock))
 + 2015.03.29 - ["Немного о магазинах" или "Нам нужен еще один слой абстракции"](https://gist.github.com/greabock/afc4a08577806b60dc61) ([@greabock](https://github.com/greabock))
