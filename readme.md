@@ -17,6 +17,7 @@ Awesome Laravel (Rus)
 
 ## Видео
 + [Настройка и использование PhpStorm IDE для Laravel-проектов](http://www.youtube.com/watch?v=oe6lN9mGxs4) (Alexander Egorov)
++ [Laravel 4: простота во всем](https://www.youtube.com/watch?v=iJ1UBp4m-ao) (Евгений Косинский)
 
 
 ## Видеокурсы
@@ -40,10 +41,6 @@ Awesome Laravel (Rus)
 + [Первая skype встреча - Laravel Russia](https://www.youtube.com/watch?v=zv-nelkk23E)
 
 
-## Видео с конференций, докладов
-+ [Laravel 4: простота во всем](https://www.youtube.com/watch?v=iJ1UBp4m-ao) (Евгений Косинский)
-
-
 ## Документация
 + [Русская документация по Laravel 5](http://laravel.su/docs/5.0/)
 + [Laravel.ru](http://laravel.ru)
@@ -51,6 +48,12 @@ Awesome Laravel (Rus)
 
 ## Книги
 + ...
+
+
+## Подборки статей, блоги
++ [Laravel на habrahabr.ru](http://habrahabr.ru/hub/laravel/)
++ [Раздел Laravel на jean179.ru](http://jean179.ru/category/php/laravel) ([@jean179](https://github.com/jean179))
++ [Раздел Laravel на amegatron.ru](http://amegatron.ru/category/laravel/) (Alexander Egorov)
 
 
 ## Статьи
@@ -67,10 +70,6 @@ Awesome Laravel (Rus)
 + 2014.11.14 - [Волшебный Eloquent. Часть Первая. Построение простых отношений в моделях данных](https://gist.github.com/greabock/3d1611c1125f5340f491) ([@greabock](https://github.com/greabock))
 + 2014.08.22 - [Переводы уроков Laravel. Создание пакета для Laravel 4](https://gist.github.com/greabock/b2e21012a51f1565848b) ([@greabock](https://github.com/greabock))
 
-## Подборки статей, блоги
-+ [Laravel на habrahabr.ru](http://habrahabr.ru/hub/laravel/)
-+ [Раздел Laravel на jean179.ru](http://jean179.ru/category/php/laravel) ([@jean179](https://github.com/jean179))
-+ [Раздел Laravel на amegatron.ru](http://amegatron.ru/category/laravel/) (Alexander Egorov)
 
 ## Прочее
 + [Laravel на ru.wikipedia.org](https://ru.wikipedia.org/wiki/Laravel)
