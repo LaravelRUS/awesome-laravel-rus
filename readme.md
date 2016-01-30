@@ -1,5 +1,6 @@
 Awesome Laravel (Rus)
 ====
+![Laravel Rus](https://avatars3.githubusercontent.com/u/5966874?v=3&s=200)
 
 Подборка ссылок на материалы по фреймворку Laravel на русском языке.
 
