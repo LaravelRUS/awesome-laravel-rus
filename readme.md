@@ -17,6 +17,8 @@ Awesome Laravel (Rus)
 
 ### Видео
 + [Настройка и использование PhpStorm IDE для Laravel-проектов](http://www.youtube.com/watch?v=oe6lN9mGxs4) (Alexander Egorov)
++ [#1 Laravel: Ratchet - WebSocket. Учимся работать с сокетами](https://www.youtube.com/watch?v=TuH8-kYxGGU) (Dmitry Afanasyev)
++ [#2 Laravel: Ratchet - WebSocket. Делаем PUSH](https://www.youtube.com/watch?v=wXCORk5xXPs) (Dmitry Afanasyev)
 + [Laravel 4: простота во всем](https://www.youtube.com/watch?v=iJ1UBp4m-ao) (Евгений Косинский)
 
 
