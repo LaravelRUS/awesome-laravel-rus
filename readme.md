@@ -23,7 +23,6 @@ Awesome Laravel (Rus)
 
 
 ### Видеокурсы
-+ [Laravel 5.1. Урок создания сайта Фотогалерея](https://www.youtube.com/playlist?list=PL4ASp3UmXSuw-n7TCyvrdS3qNPprA7svW) (Fedor Nohrin)
 + [Laravel 5: Основы. Видеообучение](https://www.youtube.com/playlist?list=PLoonZ8wII66h7pF6CFPzK3pVhTWo3DL9G) (Dmitry Afanasyev)
 + [Laravel: Создание ToDo List](https://www.youtube.com/playlist?list=PLoonZ8wII66gwRthiiZK5UwxIYqNIDmAF) (Dmitry Afanasyev)
 + [Laravel: Создание блога](https://www.youtube.com/playlist?list=PLoonZ8wII66honbGtsANipGm-kOMajK2q) (Dmitry Afanasyev)
@@ -34,6 +33,7 @@ Awesome Laravel (Rus)
 
 ### Видеокасты, лайвкодинг, вебинары
 + [Laravel Broadcasting Events Livecoding Stream](http://www.youtube.com/watch?v=Rc9kr6wXIYE) (Alexander Egorov)
++ [Laravel 5.1. Урок создания сайта Фотогалерея](https://www.youtube.com/playlist?list=PL4ASp3UmXSuw-n7TCyvrdS3qNPprA7svW) (Fedor Nohrin)
 + [Разработка игры: Laravel 5.1, EcmaScript 7, Sass, WebSockets](https://www.youtube.com/playlist?list=PLDI5V3o4oKBXfO8QbL52cF68UJyqvQ3oV) ([@SerafimArts](https://github.com/SerafimArts))
 + [Laravel 4.2](https://www.youtube.com/playlist?list=PLDI5V3o4oKBVW3e59IJpzrhvx3eUmkzir) ([@SerafimArts](https://github.com/SerafimArts))
 + [Стримы от Greabock на livecoding.tv](https://www.livecoding.tv/greabock/videos/) ([@greabock](https://github.com/greabock))
