@@ -67,11 +67,11 @@ Awesome Laravel (Rus)
 + [Как упороться по DDD, модульной структуре и областям ответственности в Laravel. А потом стать счастливым](https://gist.github.com/greabock/48787baab768b519f21c) ([@greabock](https://github.com/greabock))
 + [Вольный перевод офф доки по Former в двух частях. Часть вторая](https://gist.github.com/greabock/124a7896ca124522768b) ([@greabock](https://github.com/greabock))
 + [Вольный перевод офф доки по Former в двух частях. Часть первая](https://gist.github.com/greabock/5e1be5e8b97cededb7fe) ([@greabock](https://github.com/greabock))
-+ [Как подключить Proper 2 в Laravel 5](https://gist.github.com/Big-Shark/6281b36af7765c0cb89f) ([@Big-Shark](https://github.com/Big-Shark))
++ [Как подключить Propel 2 в Laravel 5](https://gist.github.com/Big-Shark/6281b36af7765c0cb89f) ([@Big-Shark](https://github.com/Big-Shark))
 
 ##### 2014
-+ [Волшебный Eloquent. Часть вторая."Ландшафтный Дизайн" или "Будни Садовода"](https://gist.github.com/greabock/e63da9e3d1b26e6cd7a3) ([@greabock](https://github.com/greabock))
-+ [Волшебный Eloquent. Часть Первая. Построение простых отношений в моделях данных](https://gist.github.com/greabock/3d1611c1125f5340f491) ([@greabock](https://github.com/greabock))
++ [Волшебный Eloquent. Часть вторая. "Ландшафтный Дизайн" или "Будни Садовода"](https://gist.github.com/greabock/e63da9e3d1b26e6cd7a3) ([@greabock](https://github.com/greabock))
++ [Волшебный Eloquent. Часть первая. Построение простых отношений в моделях данных](https://gist.github.com/greabock/3d1611c1125f5340f491) ([@greabock](https://github.com/greabock))
 + [Переводы уроков Laravel. Создание пакета для Laravel 4](https://gist.github.com/greabock/b2e21012a51f1565848b) ([@greabock](https://github.com/greabock))
 
 
