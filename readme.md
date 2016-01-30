@@ -83,3 +83,6 @@ Awesome Laravel (Rus)
 
 ### Прочее
 + [Laravel на ru.wikipedia.org](https://ru.wikipedia.org/wiki/Laravel)
+
+----
+*Нашли материалы, которых еще нет в списке? Сообщество будет вам благодарно за Pull Request!*
