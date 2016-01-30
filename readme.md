@@ -54,6 +54,7 @@ Awesome Laravel (Rus)
 + [Laravel на habrahabr.ru](http://habrahabr.ru/hub/laravel/)
 + [Раздел Laravel на jean179.ru](http://jean179.ru/category/php/laravel) ([@jean179](https://github.com/jean179))
 + [Раздел Laravel на amegatron.ru](http://amegatron.ru/category/laravel/) (Alexander Egorov)
++ [Раздел Laravel на web-programming.com.ua](http://web-programming.com.ua/category/laravel/)
 
 
 ### Статьи
