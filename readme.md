@@ -54,12 +54,12 @@ Awesome Laravel (Rus)
 ### Подборки статей, блоги
 + [Laravel на habrahabr.ru](http://habrahabr.ru/hub/laravel/)
 + [Блог laravelinfo.com](https://laravelinfo.com/)
-+ [Раздел Laravel на jean179.ru](http://jean179.ru/category/php/laravel) ([@jean179](https://github.com/jean179))
-+ [Раздел Laravel на amegatron.ru](http://amegatron.ru/category/laravel/) (Alexander Egorov)
-+ [Раздел Laravel на web-programming.com.ua](http://web-programming.com.ua/category/laravel/)
-+ [Раздел Laravel на otdel-devsite.ru](http://otdel-devsite.ru/category/laravel/)
-+ [Раздел Laravel на vaden-pro.ru](http://vaden-pro.ru/blog/laravel)
-+ [Раздел Laravel на jonybang.ru](http://jonybang.ru/tag/laravel) ([@jonybang](https://github.com/jonybang))
++ [Раздел на jean179.ru](http://jean179.ru/category/php/laravel) ([@jean179](https://github.com/jean179))
++ [Раздел на amegatron.ru](http://amegatron.ru/category/laravel/) (Alexander Egorov)
++ [Раздел на web-programming.com.ua](http://web-programming.com.ua/category/laravel/)
++ [Раздел на otdel-devsite.ru](http://otdel-devsite.ru/category/laravel/)
++ [Раздел на vaden-pro.ru](http://vaden-pro.ru/blog/laravel)
++ [Раздел на jonybang.ru](http://jonybang.ru/tag/laravel) ([@jonybang](https://github.com/jonybang))
 + [Переводы статей от odd_bod](https://laravel.ru/~odd_bod/posts) (odd_bod)
 
 
