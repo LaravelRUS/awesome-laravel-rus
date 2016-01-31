@@ -79,6 +79,7 @@ Awesome Laravel (Rus)
 + [Волшебный Eloquent. Часть вторая. "Ландшафтный Дизайн" или "Будни Садовода"](https://gist.github.com/greabock/e63da9e3d1b26e6cd7a3) ([@greabock](https://github.com/greabock))
 + [Волшебный Eloquent. Часть первая. Построение простых отношений в моделях данных](https://gist.github.com/greabock/3d1611c1125f5340f491) ([@greabock](https://github.com/greabock))
 + [Переводы уроков Laravel. Создание пакета для Laravel 4](https://gist.github.com/greabock/b2e21012a51f1565848b) ([@greabock](https://github.com/greabock))
++ [25 причин попробовать Laravel](http://www.dataart.ru/blog/2014/05/25-prichin-poprobovat-laravel/) ([@alexsoft](https://github.com/alexsoft))
 
 
 ### Прочее
