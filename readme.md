@@ -58,6 +58,7 @@ Awesome Laravel (Rus)
 + [Раздел Laravel на amegatron.ru](http://amegatron.ru/category/laravel/) (Alexander Egorov)
 + [Раздел Laravel на web-programming.com.ua](http://web-programming.com.ua/category/laravel/)
 + [Раздел Laravel на otdel-devsite.ru](http://otdel-devsite.ru/category/laravel/)
++ [Раздел Laravel на vaden-pro.ru](http://vaden-pro.ru/blog/laravel)
 
 
 ### Статьи
