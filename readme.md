@@ -30,6 +30,7 @@ Awesome Laravel (Rus)
 + [Практическая разработка на Laravel 5](https://www.youtube.com/playlist?list=PL82X9fw4S8uA4KA80i8ByAxJJGyi6CaYV) ([@VladimirChudovskiy](https://github.com/VladimirChudovskiy))
 + [Уроки Laravel](https://www.youtube.com/playlist?list=PL8jSdafHd96zt70cX0FkuoEsCmg55bX9t) ([@mzcoding](https://github.com/mzcoding))
 + [Гостевая книга на Laravel 5.1](https://www.youtube.com/playlist?list=PLY4rE9dstrJy1xVuLZ5BEVLEGjGA_fN8N)
++ [Laravel+Socket.io](https://www.youtube.com/playlist?list=PLEyOhcqU3T9WgpfyXFSrcAX9cQ-ZbdBiJ) ([@tratotui](https://github.com/tratotui))
 
 
 ### Видеокасты, лайвкодинг, вебинары
