@@ -61,6 +61,7 @@ Awesome Laravel (Rus)
 + [Раздел на otdel-devsite.ru](http://otdel-devsite.ru/category/laravel/)
 + [Раздел на vaden-pro.ru](http://vaden-pro.ru/blog/laravel)
 + [Раздел на jonybang.ru](http://jonybang.ru/tag/laravel) ([@jonybang](https://github.com/jonybang))
++ [Раздел на sergeymiracle.com](http://sergeymiracle.com/blog/category/laravel/) ([@SergeyMiracle](https://github.com/SergeyMiracle))
 + [Переводы статей от odd_bod](https://laravel.ru/~odd_bod/posts) (odd_bod)
 
 
