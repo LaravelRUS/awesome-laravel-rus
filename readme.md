@@ -54,6 +54,7 @@ Awesome Laravel (Rus)
 
 ### Подборки статей, блоги
 + [Laravel на habrahabr.ru](http://habrahabr.ru/hub/laravel/)
++ [Блог laravel-news.ru](https://laravel-news.ru) ([@laravel-news](https://github.com/laravel-news), Vitaly Nikolenko)
 + [Блог laravelinfo.com](https://laravelinfo.com/)
 + [Раздел на jean179.ru](http://jean179.ru/category/php/laravel) ([@jean179](https://github.com/jean179))
 + [Раздел на amegatron.ru](http://amegatron.ru/category/laravel/) (Alexander Egorov)
