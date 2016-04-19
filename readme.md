@@ -47,6 +47,7 @@ Awesome Laravel (Rus)
 ### Документация
 + [Русская документация по Laravel 5](http://laravel.su/docs/5.0/)
 + [Laravel.ru](http://laravel.ru)
++ [laravel-doc.ru](http://laravel-doc.ru)
 
 
 ### Книги (электронные)
