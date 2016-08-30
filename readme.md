@@ -40,6 +40,7 @@ Awesome Laravel (Rus)
 + [Разработка игры: Laravel 5.1, EcmaScript 7, Sass, WebSockets](https://www.youtube.com/playlist?list=PLDI5V3o4oKBXfO8QbL52cF68UJyqvQ3oV) ([@SerafimArts](https://github.com/SerafimArts))
 + [Laravel 4.2](https://www.youtube.com/playlist?list=PLDI5V3o4oKBVW3e59IJpzrhvx3eUmkzir) ([@SerafimArts](https://github.com/SerafimArts))
 + [Стримы от Greabock на livecoding.tv](https://www.livecoding.tv/greabock/videos/) ([@greabock](https://github.com/greabock))
++ [Стримы от Butschster на livecoding.tv](https://www.livecoding.tv/butschster/videos/) ([@butschster](https://github.com/butschster))
 + [Стримы от Alexander Egorov на livecoding.tv](https://www.livecoding.tv/greabock/videos/) (Alexander Egorov)
 + [Первая skype встреча - Laravel Russia](https://www.youtube.com/watch?v=zv-nelkk23E)
 
