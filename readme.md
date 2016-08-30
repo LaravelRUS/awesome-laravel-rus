@@ -72,7 +72,8 @@ Awesome Laravel (Rus)
 ### Статьи
 
 ##### 2016
-+ [Тестирование cookies в Laravel и phpunit](https://gist.github.com/Asvae/7a80606df00df4423ef7) ([@Asvae](https://github.com/Asvae))
++ [Ngrok на среде homestead своими руками](https://gist.github.com/asvae/64007501c6da91d2abac) ([@asvae](https://github.com/asvae))
++ [Тестирование cookies в Laravel и phpunit](https://gist.github.com/asvae/7a80606df00df4423ef7) ([@asvae](https://github.com/asvae))
 
 ##### 2015
 + [Почему я использую propel, а не eloquent на примере](https://gist.github.com/Big-Shark/bafe87c66c716a04aabc) ([@Big-Shark](https://github.com/Big-Shark))
