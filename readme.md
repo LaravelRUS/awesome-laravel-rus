@@ -1,10 +1,14 @@
 Awesome Laravel (Rus)
 ====
-![Laravel Rus](https://avatars3.githubusercontent.com/u/5966874?v=3&s=200)
+[![Gitter Chat](https://img.shields.io/badge/Laravel-RUS-red.svg)](https://gitter.im/LaravelRUS/chat)
 
-Подборка ссылок на материалы по фреймворку Laravel на русском языке.
+<p align="center">
+    <img src="https://avatars3.githubusercontent.com/u/5966874?v=3&s=200"><br><br>
+    <strong>Подборка ссылок на материалы по фреймворку Laravel на русском языке.</strong><br>
+    Подборку англоязычных материалов см. тут: <a href="https://github.com/chiraggude/awesome-laravel">chiraggude/awesome-laravel</a>
+</p>
 
-Подборку англоязычных материалов см. тут: [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel)
+--
 
 ### Сообщество в социальных сетях
 + [Чат](https://gitter.im/LaravelRUS/chat)
