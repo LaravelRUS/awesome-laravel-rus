@@ -46,6 +46,7 @@ Awesome Laravel (Rus)
 + [Стримы от Greabock на livecoding.tv](https://www.livecoding.tv/greabock/videos/) ([@greabock](https://github.com/greabock))
 + [Стримы от Butschster на livecoding.tv](https://www.livecoding.tv/butschster/videos/) ([@butschster](https://github.com/butschster))
 + [Стримы от Alexander Egorov на livecoding.tv](https://www.livecoding.tv/greabock/videos/) (Alexander Egorov)
++ [Стримы от Big-Shark на livecoding.tv](https://www.livecoding.tv/big_shark/videos/) ([@Big-Shark](https://github.com/Big-Shark))
 + [Первая skype встреча - Laravel Russia](https://www.youtube.com/watch?v=zv-nelkk23E)
 
 
@@ -69,7 +70,7 @@ Awesome Laravel (Rus)
 + [Раздел на otdel-devsite.ru](http://otdel-devsite.ru/category/laravel/)
 + [Раздел на vaden-pro.ru](http://vaden-pro.ru/blog/laravel)
 + [Раздел на jonybang.ru](http://jonybang.ru/tag/laravel) ([@jonybang](https://github.com/jonybang))
-+ [Раздел на angrydeer.ru](http://angrydeer.ru/category/laravel)
++ [Раздел на angrydeer.ru](http://angrydeer.ru/category/laravel) ([@AngryDeer](https://github.com/AngryDeer))
 + [Раздел на sergeymiracle.com](http://sergeymiracle.com/blog/category/laravel/) ([@SergeyMiracle](https://github.com/SergeyMiracle))
 + [Переводы статей от odd_bod](https://laravel.ru/~odd_bod/posts) (odd_bod)
 
