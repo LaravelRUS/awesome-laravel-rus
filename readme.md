@@ -39,6 +39,7 @@ Awesome Laravel (Rus)
 
 
 ### Видеокасты, лайвкодинг, вебинары
++ [Разработка FondBot](https://www.youtube.com/playlist?list=PL9RfYZyrwbLMifEUWMO4jIlqII_u_HUsB) ([@vladimir-yuldashev](https://github.com/vladimir-yuldashev))
 + [Разработка new.laravel.su](https://www.youtube.com/playlist?list=PLDI5V3o4oKBV67eeV3zIDWYTsdU28chMb) ([@SerafimArts](https://github.com/SerafimArts))
 + [Что такое MVC на примере Laravel фреймворка](https://www.youtube.com/watch?v=BD3QVM2upYI)
 + [Laravel Broadcasting Events Livecoding Stream](http://www.youtube.com/watch?v=Rc9kr6wXIYE) (Alexander Egorov)
