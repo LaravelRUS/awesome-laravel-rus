@@ -39,6 +39,7 @@ Awesome Laravel (Rus)
 
 
 ### Видеокасты, лайвкодинг, вебинары
++ [Laravel: Разработка Telegram бота](https://www.youtube.com/playlist?list=PL9RfYZyrwbLM77fKQCaA8gct-61_2FJrb) ([@vladimir-yuldashev](https://github.com/vladimir-yuldashev))
 + [Разработка FondBot](https://www.youtube.com/playlist?list=PL9RfYZyrwbLMifEUWMO4jIlqII_u_HUsB) ([@vladimir-yuldashev](https://github.com/vladimir-yuldashev))
 + [Разработка new.laravel.su](https://www.youtube.com/playlist?list=PLDI5V3o4oKBV67eeV3zIDWYTsdU28chMb) ([@SerafimArts](https://github.com/SerafimArts))
 + [Что такое MVC на примере Laravel фреймворка](https://www.youtube.com/watch?v=BD3QVM2upYI)
