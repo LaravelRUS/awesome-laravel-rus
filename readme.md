@@ -11,6 +11,7 @@ Awesome Laravel (Rus)
 --
 
 ### Сообщество в социальных сетях
++ [Чат (Discord)](https://discord.gg/mrkXUzV)
 + [Чат (Gitter)](https://gitter.im/LaravelRUS/chat)
 + [Чат (Telegram)](https://t.me/laravelrus)
 + [Канал (Telegram)](https://t.me/laravelru)
