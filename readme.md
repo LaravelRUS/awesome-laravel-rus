@@ -63,6 +63,7 @@ Awesome Laravel (Rus)
 
 
 ### Книги (электронные)
++ [Роман Сохарев - Laravel](https://www.gitbook.com/book/greabock/laravel) ([@greabock](https://github.com/greabock))
 + [Dayle Rees - Laravel: Code Bright (RU)](https://leanpub.com/codebright-ru) (платно)
 
 
