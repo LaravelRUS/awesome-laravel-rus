@@ -1,6 +1,6 @@
 Awesome Laravel (Rus)
 ====
-[![Gitter Chat](https://img.shields.io/badge/Laravel-RUS-red.svg)](https://gitter.im/LaravelRUS/chat)
+[![Gitter Chat](https://img.shields.io/badge/Laravel-RUS-blue.svg)](https://discord.gg/mrkXUzV)
 
 <p align="center">
     <img src="https://avatars3.githubusercontent.com/u/5966874?v=3&s=200"><br><br>
@@ -8,7 +8,7 @@ Awesome Laravel (Rus)
     Подборку англоязычных материалов см. тут: <a href="https://github.com/chiraggude/awesome-laravel">chiraggude/awesome-laravel</a>
 </p>
 
---
+---
 
 ### Сообщество в социальных сетях
 + [Чат (Discord)](https://discord.gg/mrkXUzV)
@@ -27,15 +27,11 @@ Awesome Laravel (Rus)
 + [Настройка и использование PhpStorm IDE для Laravel-проектов](http://www.youtube.com/watch?v=oe6lN9mGxs4) (Alexander Egorov)
 + [#1 Laravel: Ratchet - WebSocket. Учимся работать с сокетами](https://www.youtube.com/watch?v=TuH8-kYxGGU) (Dmitry Afanasyev)
 + [#2 Laravel: Ratchet - WebSocket. Делаем PUSH](https://www.youtube.com/watch?v=wXCORk5xXPs) (Dmitry Afanasyev)
-+ [Laravel 4: простота во всем](https://www.youtube.com/watch?v=iJ1UBp4m-ao) (Евгений Косинский)
 
 
 ### Видеокурсы
 + [Laravel 5: Основы. Видеообучение](https://www.youtube.com/playlist?list=PLoonZ8wII66h7pF6CFPzK3pVhTWo3DL9G) (Dmitry Afanasyev)
-+ [Laravel: Создание ToDo List](https://www.youtube.com/playlist?list=PLoonZ8wII66gwRthiiZK5UwxIYqNIDmAF) (Dmitry Afanasyev)
-+ [Laravel: Создание блога](https://www.youtube.com/playlist?list=PLoonZ8wII66honbGtsANipGm-kOMajK2q) (Dmitry Afanasyev)
 + [Практическая разработка на Laravel 5](https://www.youtube.com/playlist?list=PL82X9fw4S8uA4KA80i8ByAxJJGyi6CaYV) ([@VladimirChudovskiy](https://github.com/VladimirChudovskiy))
-+ [Уроки Laravel](https://www.youtube.com/playlist?list=PL8jSdafHd96zt70cX0FkuoEsCmg55bX9t) ([@mzcoding](https://github.com/mzcoding))
 + [Гостевая книга на Laravel 5.1](https://www.youtube.com/playlist?list=PLY4rE9dstrJy1xVuLZ5BEVLEGjGA_fN8N)
 + [Laravel+Socket.io](https://www.youtube.com/playlist?list=PLEyOhcqU3T9WgpfyXFSrcAX9cQ-ZbdBiJ) ([@tratotui](https://github.com/tratotui))
 
@@ -48,7 +44,6 @@ Awesome Laravel (Rus)
 + [Laravel Broadcasting Events Livecoding Stream](http://www.youtube.com/watch?v=Rc9kr6wXIYE) (Alexander Egorov)
 + [Laravel 5.1. Урок создания сайта Фотогалерея](https://www.youtube.com/playlist?list=PL4ASp3UmXSuw-n7TCyvrdS3qNPprA7svW) (Fedor Nohrin)
 + [Разработка игры: Laravel 5.1, EcmaScript 7, Sass, WebSockets](https://www.youtube.com/playlist?list=PLDI5V3o4oKBXfO8QbL52cF68UJyqvQ3oV) ([@SerafimArts](https://github.com/SerafimArts))
-+ [Laravel 4.2](https://www.youtube.com/playlist?list=PLDI5V3o4oKBVW3e59IJpzrhvx3eUmkzir) ([@SerafimArts](https://github.com/SerafimArts))
 + [Стримы от Greabock на livecoding.tv](https://www.livecoding.tv/greabock/videos/) ([@greabock](https://github.com/greabock))
 + [Стримы от Butschster на livecoding.tv](https://www.livecoding.tv/butschster/videos/) ([@butschster](https://github.com/butschster))
 + [Стримы от Alexander Egorov на livecoding.tv](https://www.livecoding.tv/greabock/videos/) (Alexander Egorov)
@@ -64,7 +59,6 @@ Awesome Laravel (Rus)
 
 ### Книги (электронные)
 + [Роман Сохарев - Laravel](https://www.gitbook.com/book/greabock/laravel) ([@greabock](https://github.com/greabock))
-+ [Dayle Rees - Laravel: Code Bright (RU)](https://leanpub.com/codebright-ru) (платно)
 
 
 ### Подборки статей, блоги
@@ -104,8 +98,6 @@ Awesome Laravel (Rus)
 ##### 2014
 + [Волшебный Eloquent. Часть вторая. "Ландшафтный Дизайн" или "Будни Садовода"](https://gist.github.com/greabock/e63da9e3d1b26e6cd7a3) ([@greabock](https://github.com/greabock))
 + [Волшебный Eloquent. Часть первая. Построение простых отношений в моделях данных](https://gist.github.com/greabock/3d1611c1125f5340f491) ([@greabock](https://github.com/greabock))
-+ [Переводы уроков Laravel. Создание пакета для Laravel 4](https://gist.github.com/greabock/b2e21012a51f1565848b) ([@greabock](https://github.com/greabock))
-+ [25 причин попробовать Laravel](http://www.dataart.ru/blog/2014/05/25-prichin-poprobovat-laravel/) ([@alexsoft](https://github.com/alexsoft))
 
 
 ### Прочее
