@@ -30,6 +30,8 @@ Awesome Laravel (Rus)
 
 
 ### Видеокурсы
++ [Laravel - Видеокурс: Laravel 5.7 - 5.8](https://www.youtube.com/playlist?list=PLoonZ8wII66iP0fJPHhkLXa3k7CMef9ak) (Dmitry Afanasyev)
++ [Laravel и Vue (Realtime app): Laravel 5.5 - 5.7](https://www.youtube.com/playlist?list=PLD5U-C5KK50X1KcfueA73sGSjBsd8vgVG) (DKA-DEVELOP)
 + [Laravel 5: Основы. Видеообучение](https://www.youtube.com/playlist?list=PLoonZ8wII66h7pF6CFPzK3pVhTWo3DL9G) (Dmitry Afanasyev)
 + [Практическая разработка на Laravel 5](https://www.youtube.com/playlist?list=PL82X9fw4S8uA4KA80i8ByAxJJGyi6CaYV) ([@VladimirChudovskiy](https://github.com/VladimirChudovskiy))
 + [Гостевая книга на Laravel 5.1](https://www.youtube.com/playlist?list=PLY4rE9dstrJy1xVuLZ5BEVLEGjGA_fN8N)
