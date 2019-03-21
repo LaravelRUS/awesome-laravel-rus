@@ -54,27 +54,16 @@ Awesome Laravel (Rus)
 
 
 ### Документация
-+ [Русская документация по Laravel 5](http://laravel.su/docs/5.0/)
++ [Русская документация по Laravel 5](http://laravel.su/docs/5.4/)
 + [Laravel.ru](http://laravel.ru)
-+ [laravel-doc.ru](http://laravel-doc.ru)
-
-
-### Книги (электронные)
-+ [Роман Сохарев - Laravel](https://www.gitbook.com/book/greabock/laravel) ([@greabock](https://github.com/greabock))
 
 
 ### Подборки статей, блоги
 + [Laravel на habrahabr.ru](http://habrahabr.ru/hub/laravel/)
 + [Блог laravel-news.ru](https://laravel-news.ru) ([@laravel-news](https://github.com/laravel-news), Vitaly Nikolenko)
-+ [Блог laravelinfo.com](https://laravelinfo.com/)
-+ [Раздел на jean179.ru](http://jean179.ru/category/php/laravel) ([@jean179](https://github.com/jean179))
 + [Раздел на amegatron.ru](http://amegatron.ru/category/laravel/) (Alexander Egorov)
 + [Раздел на web-programming.com.ua](http://web-programming.com.ua/category/laravel/)
-+ [Раздел на otdel-devsite.ru](http://otdel-devsite.ru/category/laravel/)
 + [Раздел на vaden-pro.ru](http://vaden-pro.ru/blog/laravel)
-+ [Раздел на jonybang.ru](http://jonybang.ru/tag/laravel) ([@jonybang](https://github.com/jonybang))
-+ [Раздел на angrydeer.ru](http://angrydeer.ru/category/laravel) ([@AngryDeer](https://github.com/AngryDeer))
-+ [Раздел на sergeymiracle.com](http://sergeymiracle.com/blog/category/laravel/) ([@SergeyMiracle](https://github.com/SergeyMiracle))
 + [Переводы статей от odd_bod](https://laravel.ru/~odd_bod/posts) (odd_bod)
 
 
