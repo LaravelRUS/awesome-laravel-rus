@@ -65,6 +65,17 @@ Awesome Laravel (Rus)
 + [Раздел на web-programming.com.ua](http://web-programming.com.ua/category/laravel/)
 + [Раздел на vaden-pro.ru](http://vaden-pro.ru/blog/laravel)
 + [Переводы статей от odd_bod](https://laravel.ru/~odd_bod/posts) (odd_bod)
++ [Уроки на Envato Tuts+](https://code.tutsplus.com/ru/categories/laravel)
++ [Раздел на Evil Inside](https://evilinside.ru/laravel/)
++ [Раздел на Softroot](https://softroot.ru/tag/laravel/) (Lightair)
++ [Раздел на SI-Dev](https://si-dev.com/ru/blog/categories/laravel) (Сергей Иваненко)
+
+
+### Сравнения
++ [Laravel и Symfony. Фреймворк для сайта](https://arduinoplus.ru/laravel-ili-symfony/)
++ [Laravel и Yii. Что выбрать. Дискуссия на Хабре](https://habr.com/ru/post/353434/)
++ [Laravel и Yii. За каким фреймворком будущее. Дискуссия на VC](https://vc.ru/flood/52013-yii-vs-laravel-za-kakim-freymvorkom-budushchee)
++ [Laravel и WordPress. 20 различий](https://flagstudio.ru/blog/20-razlichij-wordpress-i-laravel)
 
 
 ### Статьи
