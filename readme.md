@@ -69,6 +69,13 @@ Awesome Laravel (Rus)
 + [Раздел на Evil Inside](https://evilinside.ru/laravel/)
 + [Раздел на Softroot](https://softroot.ru/tag/laravel/) (Lightair)
 + [Раздел на SI-Dev](https://si-dev.com/ru/blog/categories/laravel) (Сергей Иваненко)
++ [Раздел на Тяпк](https://tyapk.ru/blog/category/laravel) (Александр Ветров)
++ [Раздел на Pyro338](https://pyro338.ru/category/shpargalki/laravel/) (Antonio Amorales)
++ [Раздел на PHPnick](https://phpnick.ru/posts/tag/laravel) (Николай Старков)
++ [Раздел на Badcode](https://badcode.ru/tag/laravel/) (Fomenko Alexandr)
++ [Раздел на Web programming](https://web-programming.com.ua/category/laravel/)
++ [Раздел на СССР Blog](http://cccp-blog.com/laravel)
++ [Новости Laravel по-русски](https://laravelnews.ru/)
 
 
 ### Сравнения
